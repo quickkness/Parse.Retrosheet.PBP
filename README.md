@@ -1,3 +1,3 @@
 # Parse.Retrosheet.PBP
 
-dddd
+Code to parse Retrosheet data
